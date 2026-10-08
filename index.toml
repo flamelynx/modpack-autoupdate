@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "fabricskyboxes-0.7.3+mc1.20.1.jar"
+hash = "277393ed2df9c0418ab0af23e7c4213bb08b71d139c022d38ca3ead93235ec35"
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "d8577a489a8e9c90a4207931ebba22d2ef81bacfb68e794032d78952173e95f8"
 metafile = true
@@ -28,6 +37,11 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
+metafile = true
+
+[[files]]
+file = "mods/bento-box.pw.toml"
+hash = "d5d554f29361276fd7e41482a76347afac10f9f0a72dfb4e4a42d78c855ef388"
 metafile = true
 
 [[files]]
@@ -236,6 +250,11 @@ hash = "c48a49756bb02d601878be749bce3279ce71522ecb9d7a6c3e1eca9649045142"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
 file = "mods/mousetweaks-x-accessories-fix.pw.toml"
 hash = "e5e98cd5b63adeec29a60e22ea5699c28118daef8e69fce99dd7dbe150c48f3b"
 metafile = true
@@ -409,3 +428,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "22c02ada89e65c16cfce0a4c69f05e9dd56a085cbd4e4160ec57cdc4d78385b8"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
