@@ -1,0 +1,13 @@
+name = "Craftable Chainmail Armor"
+filename = "craftable-chainmail-armor-1.20-1.20.4-v1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/raz4aMjT/versions/kkmcg3dr/craftable-chainmail-armor-1.20-1.20.4-v1.3.jar"
+hash-format = "sha512"
+hash = "1642b71e94c7fcc0c8670551a7863c1f983de866d14ddc8746fa9c8d891241bb938eb783958646881cdfec2f96dab6b3472f2edd6e64446902673c6e4a5ba250"
+
+[update]
+[update.modrinth]
+mod-id = "raz4aMjT"
+version = "kkmcg3dr"

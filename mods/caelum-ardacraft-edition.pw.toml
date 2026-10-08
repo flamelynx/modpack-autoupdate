@@ -1,0 +1,13 @@
+name = "Caelum - ArdaCraft Edition"
+filename = "caelum-1.1.1+ArdaCraft.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QAQLxRo9/versions/Bdw7wqJr/caelum-1.1.1%2BArdaCraft.jar"
+hash-format = "sha512"
+hash = "f73b3c6a5c478ba42878927496c60af6f34d0ec92f92ea40db4efc6e7c9261d4712ab6a7843290163b8114e06ea23682f8f8659b227a143e061c681c51f6fc61"
+
+[update]
+[update.modrinth]
+mod-id = "QAQLxRo9"
+version = "Bdw7wqJr"

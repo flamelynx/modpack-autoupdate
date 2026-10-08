@@ -1,0 +1,13 @@
+name = "Majrusz's Progressive Difficulty"
+filename = "majruszs-difficulty-fabric-1.20.1-1.9.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GGDBwjOg/versions/4QlCUN5g/majruszs-difficulty-fabric-1.20.1-1.9.10.jar"
+hash-format = "sha512"
+hash = "77a236d41767f5f2fa4aa2f37ff889cbe0e550f4e166dba7a58ad3f0ca331f882217faddcb01e2d8388756e19843cbb7b511a0efe1b003174794330dd00288c8"
+
+[update]
+[update.modrinth]
+mod-id = "GGDBwjOg"
+version = "4QlCUN5g"

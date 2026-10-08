@@ -1,0 +1,13 @@
+name = "Sans The Skeleton: An Origins Addon"
+filename = "ultimatesansv2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r1wz2Lob/versions/XaJrD6YN/ultimatesansv2.1.jar"
+hash-format = "sha512"
+hash = "6f927b1bcf0d470f63c384f4b3e2fd9c8ae7900a79ad6e7f2188aa89bfff7a8b07ac1845bdb3ce0a198fa5df39bb6a9c0a40a57f4edeef2c0cd4e2a99c9d9bf5"
+
+[update]
+[update.modrinth]
+mod-id = "r1wz2Lob"
+version = "XaJrD6YN"
